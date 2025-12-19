@@ -5,7 +5,7 @@ This project analyzes hotel booking data to practice advanced sampling technique
 
 ## Objectives Achieved
 
-### 1. Data Stratification
+## 1. Data Stratification
 Applied stratified sampling to maintain proportional representation
 
 Stratified based on:
@@ -14,24 +14,24 @@ Booking status (Canceled vs Not Canceled)
 Customer type (Transient, Contract, Group, Transient-Party)
 Market segment
 
-### 2. Room Preference Analysis
+## 2. Room Preference Analysis
 
 Categorized bookings by desired room type
 Analyzed room type preferences across different customer segments
 Created visualizations comparing room preferences before and after stratification
 
-### 3. Visualizations Created
+## 3. Visualizations Created
 
 - Before Stratification:
 - 
-# Original distribution analysis
+### Original distribution analysis
 - Room type distribution bar chart
 - Cancellation rate by hotel type
 - Market segment composition pie chart
 
 - After Stratification:
 
-# Stratified sample analysis  
+### Stratified sample analysis  
 - Comparative bar charts (before vs after)
 - Room preference heatmaps
 - Customer type distribution comparison
